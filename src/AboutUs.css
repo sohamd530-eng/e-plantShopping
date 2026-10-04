@@ -1,0 +1,32 @@
+.about-us-container {
+  max-width: 800px;
+  text-align: justify;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  backdrop-filter: blur(8px);
+}
+
+.about-us-heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.about-us-description {
+  font-size: 20px;
+  color: #a8e6cf;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.about-us-content {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
